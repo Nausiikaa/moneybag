@@ -1,0 +1,2 @@
+https://gamedevelopment.tutsplus.com/tutorials/introduction-to-javafx-for-game-development--cms-23835
+https://docs.oracle.com/javase/8/javafx/api/javafx/scene/canvas/GraphicsContext.html
